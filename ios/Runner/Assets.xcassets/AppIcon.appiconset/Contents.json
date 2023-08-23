@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "size" : "96x96",
+      "idiom" : "iphone",
+      "filename" : "Icon-App-96x96.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
